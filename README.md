@@ -8,9 +8,11 @@
 </p>
  <h2 >How to use</h2>
 
-download the full package from github and extract it
-run the MONT3AN setup file AND INSTALL it
-then run the installed application and enjoy
+- download the full package from github and extract it
+
+- run the MONT3AN setup file AND INSTALL it
+
+- then run the installed application and enjoy
 
 <hr>
 GUYS ITS FULL FREE BUT WE HAVE A PREMIUM VERSOIN THAT WE USE SERVERS AND ITS VERY PROFETIONAL
